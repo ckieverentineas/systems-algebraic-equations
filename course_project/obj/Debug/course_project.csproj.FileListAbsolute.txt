@@ -1,0 +1,10 @@
+E:\Projects\course_project\course_project\bin\Debug\course_project.exe.config
+E:\Projects\course_project\course_project\bin\Debug\course_project.exe
+E:\Projects\course_project\course_project\bin\Debug\course_project.pdb
+E:\Projects\course_project\course_project\obj\Debug\course_project.Form1.resources
+E:\Projects\course_project\course_project\obj\Debug\course_project.Properties.Resources.resources
+E:\Projects\course_project\course_project\obj\Debug\course_project.csproj.GenerateResource.cache
+E:\Projects\course_project\course_project\obj\Debug\course_project.csproj.CoreCompileInputs.cache
+E:\Projects\course_project\course_project\obj\Debug\course_project.exe
+E:\Projects\course_project\course_project\obj\Debug\course_project.pdb
+E:\Projects\course_project\course_project\obj\Debug\course_project.csproj.AssemblyReference.cache
